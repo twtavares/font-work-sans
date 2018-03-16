@@ -39,11 +39,6 @@ $FontPathWorkSans: "../fonts/work-sans";
 @import '../../../node_modules/font-work-sans/work-sans';
 ```
 
-## Source of font files
-
-[Open Sans at FontFaceKit](https://github.com/FontFaceKit/work-sans)
-
-
 ## License
 
 Fonts: Licensed under [Open Font License](https://github.com/twtavares/font-work-sans/blob/master/LICENSE)
