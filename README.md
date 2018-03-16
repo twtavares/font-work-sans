@@ -5,9 +5,9 @@
 
 ***
 
-# npm package of Work Sans
+# npm package of Open Sans
 
-Work Sans é um tipo de letra humanista sans serif
+Work Sans is a humanist sans serif typeface.
 
 
 ## Installation
