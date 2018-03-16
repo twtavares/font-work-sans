@@ -5,9 +5,9 @@
 
 ***
 
-# npm package of Open Sans
+# npm package of Work Sans
 
-Open Sans is a humanist sans serif typeface designed by Steve Matteson.
+Work Sans é um tipo de letra humanista sans serif
 
 
 ## Installation
