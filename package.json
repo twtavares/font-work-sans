@@ -1,0 +1,34 @@
+{
+  "name": "font-work-sans",
+  "version": "1.0.0",
+  "description": "Work Sans font family - incl. usage of CSS, SCSS, LESS",
+  "author": {
+    "name": "Thiago Tavares"
+  },
+  "contributors": [
+    {
+      "name": "Thiago Tavares",
+      "email": "twtavares@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twtavares/font-work-sans.git"
+  },
+  "keywords": [
+    "font",
+    "fontface",
+    "work",
+    "sans",
+    "css",
+    "sass",
+    "scss",
+    "less"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/twtavares/font-work-sans/issues"
+  },
+  "homepage": "https://github.com/twtavares/font-work-sans#readme",
+  "main": "./work-sans.css"
+}
