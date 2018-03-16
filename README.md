@@ -46,7 +46,7 @@ $FontPathWorkSans: "../fonts/work-sans";
 
 ## License
 
-Fonts: Licensed under [Open Font License](https://github.com/twtavares/npm-font-open-sans/blob/master/LICENSE)
+Fonts: Licensed under [Open Font License](https://github.com/twtavares/font-work-sans/blob/master/LICENSE)
 
 ***
 
