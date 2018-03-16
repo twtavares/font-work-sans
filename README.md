@@ -5,7 +5,7 @@
 
 ***
 
-# npm package of Open Sans
+# npm package of Work Sans
 
 Work Sans is a humanist sans serif typeface.
 
